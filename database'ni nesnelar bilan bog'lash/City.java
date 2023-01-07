@@ -3,7 +3,7 @@ package hibernatePACKAGE;
 import javax.persistence.*;
 
 @Entity //boglashimizga va datamizni chaqirishimizga yordamchi boladi
-@Table(name = 'city') // datamizni nomi 
+@Table(name = "city") // datamizni nomi 
 
 public class City {
 	@Id
